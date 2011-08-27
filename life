@@ -1,0 +1,13 @@
+#!/usr/bin/python
+
+from optparse import OptionParser
+
+def main():
+    
+    parser = OptionParser()
+    (options, args) = parser.parse_args()
+    
+    print args
+    
+if __name__ == '__main__':
+    main()
