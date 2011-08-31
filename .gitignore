@@ -1,0 +1,6 @@
+# Ignore compiled python files
+*.pyc
+
+# Ignore personal user data files
+/data/*
+
